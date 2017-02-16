@@ -438,7 +438,7 @@ margin-top: 500px;
 }
 
 .contactPic{
-    margin-top: 100px;
+    margin-top: 80px;
 }
 
 .contactPic>h2{
@@ -483,4 +483,18 @@ width: 955px;
     font-family: Calibri;
     border: 1px solid #FEC300;
     border-radius: 4px;
+   
+}
+
+.footer{
+  
+    height: 50px;
+    width: 100%;
+}
+
+.footer p{
+   text-align: center;
+    font-size: 20px;
+     font-family: calibri;
+    color: #312A1E;
 }
