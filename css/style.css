@@ -443,7 +443,8 @@ body {
 
 .info textarea {
     margin-top: 20px;
-    width: 955px;
+    width: 950px;
+    margin-right: 3px;
 }
 
 .info input,
